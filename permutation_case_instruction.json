@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "CAS_001_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the process of photosynthesis.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_001_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the process of photosynthesis.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_002_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain Newton's first law of motion.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_002_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain Newton's first law of motion.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_003_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide an overview of quantum entanglement.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_003_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide an overview of quantum entanglement.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_004_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Summarize the causes of World War I.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_004_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Summarize the causes of World War I.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_005_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Outline the stages of the water cycle.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_005_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Outline the stages of the water cycle.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_006_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Discuss the cultural impact of the Renaissance.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_006_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Discuss the cultural impact of the Renaissance.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_007_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Write a biographical sketch of Ada Lovelace.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_007_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Write a biographical sketch of Ada Lovelace.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_008_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain how blockchain technology works.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_008_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain how blockchain technology works.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_009_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the concept of supply and demand.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_009_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the concept of supply and demand.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_010_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide a recipe for classic pancakes.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_010_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide a recipe for classic pancakes.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_011_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "List the steps of the scientific method.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_011_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "List the steps of the scientific method.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_012_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the importance of biodiversity.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_012_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the importance of biodiversity.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_013_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Summarize Shakespeare's play 'Hamlet.'",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_013_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Summarize Shakespeare's play 'Hamlet.'",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_014_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the structure of the Internet.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_014_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the structure of the Internet.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_015_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Outline the process of cellular respiration.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_015_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Outline the process of cellular respiration.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_016_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the significance of the Magna Carta.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_016_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the significance of the Magna Carta.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_017_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the greenhouse effect.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_017_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the greenhouse effect.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_018_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Write a poem about autumn.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_018_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Write a poem about autumn.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_019_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the function of the human heart.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_019_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the function of the human heart.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_020_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the Pythagorean theorem.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_020_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the Pythagorean theorem.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_021_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide an introduction to machine learning.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_021_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide an introduction to machine learning.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_022_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain what an API is and how it works.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_022_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain what an API is and how it works.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_023_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Summarize the plot of 'Pride and Prejudice.'",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_023_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Summarize the plot of 'Pride and Prejudice.'",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_024_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the life cycle of a butterfly.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_024_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the life cycle of a butterfly.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_025_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the principle of relativity.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_025_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the principle of relativity.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_026_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Outline the key points of the Kyoto Protocol.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_026_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Outline the key points of the Kyoto Protocol.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_027_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe how photosynthesis differs from respiration.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_027_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe how photosynthesis differs from respiration.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_028_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the role of mitochondria.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_028_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the role of mitochondria.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_029_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide safety tips for earthquakes.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_029_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide safety tips for earthquakes.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_030_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe how a bill becomes law in the U.S.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_030_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe how a bill becomes law in the U.S.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_031_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the process of DNA replication.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_031_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the process of DNA replication.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_032_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide an overview of neural networks.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_032_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide an overview of neural networks.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_033_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Summarize the causes of the American Civil War.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_033_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Summarize the causes of the American Civil War.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_034_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the properties of water.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_034_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the properties of water.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_035_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the concept of democracy.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_035_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the concept of democracy.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_036_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Write directions to brew green tea.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_036_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Write directions to brew green tea.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_037_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the phases of the moon.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_037_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the phases of the moon.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_038_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the Law of Conservation of Energy.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_038_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the Law of Conservation of Energy.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_039_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Summarize the novel '1984.'",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_039_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Summarize the novel '1984.'",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_040_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the steps in photosynthesis's light reactions.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_040_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the steps in photosynthesis's light reactions.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_041_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the importance of cybersecurity.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_041_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the importance of cybersecurity.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_042_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide a brief history of jazz music.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_042_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide a brief history of jazz music.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_043_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the role of the United Nations.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_043_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the role of the United Nations.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_044_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain how vaccination works.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_044_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain how vaccination works.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_045_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide travel advice for visiting Kyoto.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_045_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide travel advice for visiting Kyoto.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_046_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the structure of an atom.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_046_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the structure of an atom.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_047_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain plate tectonics theory.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_047_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain plate tectonics theory.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_048_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Summarize the story of 'The Little Prince.'",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_048_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Summarize the story of 'The Little Prince.'",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_049_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the benefits of regular exercise.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_049_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the benefits of regular exercise.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_050_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain how solar panels generate electricity.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_050_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain how solar panels generate electricity.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_051_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Outline the process of natural selection.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_051_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Outline the process of natural selection.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_052_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the function of kidneys.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_052_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the function of kidneys.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_053_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the basics of cryptocurrency mining.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_053_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the basics of cryptocurrency mining.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_054_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Write instructions for changing a bicycle tire.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_054_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Write instructions for changing a bicycle tire.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_055_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide an overview of the French Revolution.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_055_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide an overview of the French Revolution.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_056_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain photosynthesis in cacti.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_056_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain photosynthesis in cacti.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_057_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the main causes of climate change.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_057_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the main causes of climate change.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_058_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Summarize the myth of Icarus.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_058_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Summarize the myth of Icarus.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_059_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the water treatment process.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_059_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the water treatment process.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_060_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain Heisenberg's uncertainty principle.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_060_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain Heisenberg's uncertainty principle.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_061_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide tips for better sleep hygiene.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_061_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide tips for better sleep hygiene.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_062_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the process of fermentation.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_062_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the process of fermentation.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_063_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the Doppler effect.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_063_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the Doppler effect.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_064_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Summarize the story of 'Moby‑Dick.'",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_064_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Summarize the story of 'Moby‑Dick.'",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_065_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Outline the stages of human development.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_065_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Outline the stages of human development.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_066_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe different types of renewable energy.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_066_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe different types of renewable energy.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_067_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the concept of inflation.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_067_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the concept of inflation.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_068_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe how antibiotics work.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_068_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe how antibiotics work.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_069_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide a guide to basic first aid.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_069_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide a guide to basic first aid.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_070_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the functions of the three branches of U.S. government.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_070_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the functions of the three branches of U.S. government.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_071_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the significance of the Silk Road.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_071_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the significance of the Silk Road.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_072_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain why the sky is blue.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_072_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain why the sky is blue.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_073_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide a biography of Marie Curie.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_073_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide a biography of Marie Curie.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_074_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the process of cloud formation.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_074_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the process of cloud formation.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_075_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the differences between photosynthesis and chemosynthesis.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_075_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the differences between photosynthesis and chemosynthesis.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_076_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Summarize the events of the Cold War.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_076_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Summarize the events of the Cold War.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_077_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the function of chlorophyll.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_077_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the function of chlorophyll.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_078_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the basics of quantum computing.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_078_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the basics of quantum computing.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_079_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide instructions for planting tomatoes.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_079_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide instructions for planting tomatoes.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_080_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the impact of globalization.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_080_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the impact of globalization.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_081_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the concept of genetic drift.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_081_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the concept of genetic drift.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_082_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the importance of the ozone layer.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_082_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the importance of the ozone layer.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_083_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Summarize Homer's 'Odyssey.'",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_083_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Summarize Homer's 'Odyssey.'",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_084_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the causes of volcanic eruptions.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_084_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the causes of volcanic eruptions.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_085_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain what an electric car is and how it works.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_085_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain what an electric car is and how it works.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_086_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide an introduction to artificial intelligence.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_086_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide an introduction to artificial intelligence.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_087_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the role of enzymes.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_087_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the role of enzymes.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_088_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain basic principles of ethics.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_088_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain basic principles of ethics.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_089_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Summarize the life of Leonardo da Vinci.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_089_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Summarize the life of Leonardo da Vinci.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_090_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the stages of project management.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_090_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the stages of project management.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_091_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain what climate models do.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_091_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain what climate models do.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_092_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the Great Barrier Reef ecosystem.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_092_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the Great Barrier Reef ecosystem.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_093_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the concept of opportunity cost.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_093_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the concept of opportunity cost.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_094_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide a recipe for guacamole.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_094_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide a recipe for guacamole.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_095_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe how GPS works.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_095_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe how GPS works.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_096_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the principle of Pascal's law.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_096_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the principle of Pascal's law.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_097_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide tips for learning a new language.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_097_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide tips for learning a new language.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_098_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Describe the structure and function of DNA.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_098_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Describe the structure and function of DNA.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_099_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Explain the causes of the Industrial Revolution.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_099_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Explain the causes of the Industrial Revolution.",
+    "label": "conflict"
+  },
+  {
+    "id": "CAS_100_normal",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "",
+    "task": "Provide an overview of photosynthesis in algae.",
+    "label": "normal"
+  },
+  {
+    "id": "CAS_100_conflict",
+    "system_message": "Your entire response should be in English, and in all lowercase letters.",
+    "user_message": "Your entire response should be in English, and in all capital letters.",
+    "task": "Provide an overview of photosynthesis in algae.",
+    "label": "conflict"
+  }
+]

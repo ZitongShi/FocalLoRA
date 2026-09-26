@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "JSN_001_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the process of photosynthesis.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_001_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the process of photosynthesis.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_002_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain Newton's first law of motion.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_002_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain Newton's first law of motion.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_003_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide an overview of quantum entanglement.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_003_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide an overview of quantum entanglement.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_004_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Summarize the causes of World War I.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_004_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Summarize the causes of World War I.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_005_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Outline the stages of the water cycle.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_005_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Outline the stages of the water cycle.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_006_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Discuss the cultural impact of the Renaissance.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_006_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Discuss the cultural impact of the Renaissance.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_007_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Write a biographical sketch of Ada Lovelace.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_007_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Write a biographical sketch of Ada Lovelace.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_008_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain how blockchain technology works.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_008_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain how blockchain technology works.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_009_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the concept of supply and demand.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_009_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the concept of supply and demand.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_010_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide a recipe for classic pancakes.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_010_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide a recipe for classic pancakes.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_011_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "List the steps of the scientific method.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_011_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "List the steps of the scientific method.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_012_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the importance of biodiversity.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_012_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the importance of biodiversity.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_013_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Summarize Shakespeare's play 'Hamlet.'",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_013_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Summarize Shakespeare's play 'Hamlet.'",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_014_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the structure of the Internet.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_014_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the structure of the Internet.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_015_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Outline the process of cellular respiration.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_015_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Outline the process of cellular respiration.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_016_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the significance of the Magna Carta.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_016_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the significance of the Magna Carta.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_017_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the greenhouse effect.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_017_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the greenhouse effect.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_018_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Write a poem about autumn.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_018_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Write a poem about autumn.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_019_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the function of the human heart.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_019_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the function of the human heart.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_020_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the Pythagorean theorem.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_020_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the Pythagorean theorem.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_021_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide an introduction to machine learning.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_021_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide an introduction to machine learning.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_022_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain what an API is and how it works.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_022_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain what an API is and how it works.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_023_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Summarize the plot of 'Pride and Prejudice.'",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_023_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Summarize the plot of 'Pride and Prejudice.'",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_024_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the life cycle of a butterfly.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_024_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the life cycle of a butterfly.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_025_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the principle of relativity.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_025_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the principle of relativity.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_026_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Outline the key points of the Kyoto Protocol.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_026_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Outline the key points of the Kyoto Protocol.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_027_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe how photosynthesis differs from respiration.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_027_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe how photosynthesis differs from respiration.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_028_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the role of mitochondria.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_028_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the role of mitochondria.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_029_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide safety tips for earthquakes.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_029_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide safety tips for earthquakes.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_030_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe how a bill becomes law in the U.S.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_030_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe how a bill becomes law in the U.S.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_031_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the process of DNA replication.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_031_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the process of DNA replication.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_032_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide an overview of neural networks.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_032_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide an overview of neural networks.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_033_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Summarize the causes of the American Civil War.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_033_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Summarize the causes of the American Civil War.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_034_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the properties of water.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_034_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the properties of water.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_035_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the concept of democracy.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_035_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the concept of democracy.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_036_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Write directions to brew green tea.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_036_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Write directions to brew green tea.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_037_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the phases of the moon.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_037_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the phases of the moon.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_038_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the Law of Conservation of Energy.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_038_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the Law of Conservation of Energy.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_039_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Summarize the novel '1984.'",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_039_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Summarize the novel '1984.'",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_040_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the steps in the light reactions of photosynthesis.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_040_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the steps in the light reactions of photosynthesis.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_041_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the importance of cybersecurity.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_041_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the importance of cybersecurity.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_042_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide a brief history of jazz music.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_042_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide a brief history of jazz music.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_043_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the role of the United Nations.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_043_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the role of the United Nations.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_044_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain how vaccination works.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_044_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain how vaccination works.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_045_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide travel advice for visiting Kyoto.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_045_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide travel advice for visiting Kyoto.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_046_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the structure of an atom.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_046_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the structure of an atom.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_047_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain plate tectonics theory.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_047_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain plate tectonics theory.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_048_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Summarize the story of 'The Little Prince.'",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_048_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Summarize the story of 'The Little Prince.'",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_049_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the benefits of regular exercise.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_049_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the benefits of regular exercise.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_050_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain how solar panels generate electricity.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_050_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain how solar panels generate electricity.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_051_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Outline the process of natural selection.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_051_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Outline the process of natural selection.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_052_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the function of kidneys.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_052_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the function of kidneys.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_053_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the basics of cryptocurrency mining.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_053_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the basics of cryptocurrency mining.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_054_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Write instructions for changing a bicycle tire.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_054_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Write instructions for changing a bicycle tire.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_055_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide an overview of the French Revolution.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_055_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide an overview of the French Revolution.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_056_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain photosynthesis in cacti.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_056_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain photosynthesis in cacti.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_057_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the main causes of climate change.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_057_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the main causes of climate change.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_058_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Summarize the myth of Icarus.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_058_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Summarize the myth of Icarus.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_059_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the water treatment process.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_059_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the water treatment process.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_060_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain Heisenberg's uncertainty principle.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_060_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain Heisenberg's uncertainty principle.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_061_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide tips for better sleep hygiene.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_061_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide tips for better sleep hygiene.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_062_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the process of fermentation.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_062_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the process of fermentation.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_063_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the Doppler effect.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_063_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the Doppler effect.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_064_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Summarize the story of 'Moby-Dick.'",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_064_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Summarize the story of 'Moby-Dick.'",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_065_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Outline the stages of human development.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_065_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Outline the stages of human development.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_066_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe different types of renewable energy.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_066_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe different types of renewable energy.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_067_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the concept of inflation.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_067_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the concept of inflation.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_068_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe how antibiotics work.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_068_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe how antibiotics work.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_069_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide a guide to basic first aid.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_069_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide a guide to basic first aid.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_070_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the functions of the three branches of U.S. government.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_070_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the functions of the three branches of U.S. government.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_071_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the significance of the Silk Road.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_071_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the significance of the Silk Road.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_072_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain why the sky is blue.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_072_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain why the sky is blue.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_073_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide a biography of Marie Curie.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_073_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide a biography of Marie Curie.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_074_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the process of cloud formation.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_074_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the process of cloud formation.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_075_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the differences between photosynthesis and chemosynthesis.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_075_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the differences between photosynthesis and chemosynthesis.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_076_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Summarize the events of the Cold War.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_076_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Summarize the events of the Cold War.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_077_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the function of chlorophyll.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_077_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the function of chlorophyll.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_078_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the basics of quantum computing.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_078_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the basics of quantum computing.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_079_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide instructions for planting tomatoes.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_079_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide instructions for planting tomatoes.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_080_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the impact of globalization.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_080_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the impact of globalization.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_081_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the concept of genetic drift.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_081_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the concept of genetic drift.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_082_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the importance of the ozone layer.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_082_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the importance of the ozone layer.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_083_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Summarize Homer's 'Odyssey.'",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_083_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Summarize Homer's 'Odyssey.'",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_084_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the causes of volcanic eruptions.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_084_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the causes of volcanic eruptions.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_085_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain what an electric car is and how it works.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_085_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain what an electric car is and how it works.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_086_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide an introduction to artificial intelligence.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_086_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide an introduction to artificial intelligence.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_087_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the role of enzymes.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_087_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the role of enzymes.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_088_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain basic principles of ethics.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_088_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain basic principles of ethics.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_089_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Summarize the life of Leonardo da Vinci.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_089_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Summarize the life of Leonardo da Vinci.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_090_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the stages of project management.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_090_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the stages of project management.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_091_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain what climate models do.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_091_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain what climate models do.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_092_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the Great Barrier Reef ecosystem.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_092_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the Great Barrier Reef ecosystem.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_093_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the concept of opportunity cost.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_093_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the concept of opportunity cost.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_094_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide a recipe for guacamole.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_094_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide a recipe for guacamole.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_095_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe how GPS works.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_095_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe how GPS works.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_096_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the principle of Pascal's law.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_096_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the principle of Pascal's law.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_097_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide tips for learning a new language.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_097_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide tips for learning a new language.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_098_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Describe the structure and function of DNA.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_098_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Describe the structure and function of DNA.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_099_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Explain the causes of the Industrial Revolution.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_099_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Explain the causes of the Industrial Revolution.",
+    "label": "conflict"
+  },
+  {
+    "id": "JSN_100_normal",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "",
+    "task": "Provide an overview of photosynthesis in algae.",
+    "label": "normal"
+  },
+  {
+    "id": "JSN_100_conflict",
+    "system_message": "Respond in JSON format with keys 'answer' and 'reasoning', no additional text.",
+    "user_message": "Respond in plain text prose, no JSON formatting.",
+    "task": "Provide an overview of photosynthesis in algae.",
+    "label": "conflict"
+  }
+]

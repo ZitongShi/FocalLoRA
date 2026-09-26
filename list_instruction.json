@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "LST_001_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the process of photosynthesis.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_001_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the process of photosynthesis.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_002_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain Newton's first law of motion.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_002_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain Newton's first law of motion.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_003_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide an overview of quantum entanglement.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_003_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide an overview of quantum entanglement.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_004_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Summarize the causes of World War I.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_004_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Summarize the causes of World War I.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_005_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Outline the stages of the water cycle.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_005_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Outline the stages of the water cycle.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_006_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Discuss the cultural impact of the Renaissance.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_006_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Discuss the cultural impact of the Renaissance.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_007_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Write a biographical sketch of Ada Lovelace.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_007_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Write a biographical sketch of Ada Lovelace.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_008_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain how blockchain technology works.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_008_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain how blockchain technology works.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_009_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the concept of supply and demand.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_009_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the concept of supply and demand.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_010_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide a recipe for classic pancakes.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_010_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide a recipe for classic pancakes.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_011_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "List the steps of the scientific method.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_011_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "List the steps of the scientific method.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_012_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the importance of biodiversity.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_012_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the importance of biodiversity.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_013_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Summarize Shakespeare's play 'Hamlet.'",
+    "label": "normal"
+  },
+  {
+    "id": "LST_013_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Summarize Shakespeare's play 'Hamlet.'",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_014_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the structure of the Internet.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_014_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the structure of the Internet.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_015_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Outline the process of cellular respiration.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_015_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Outline the process of cellular respiration.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_016_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the significance of the Magna Carta.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_016_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the significance of the Magna Carta.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_017_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the greenhouse effect.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_017_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the greenhouse effect.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_018_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Write a poem about autumn.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_018_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Write a poem about autumn.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_019_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the function of the human heart.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_019_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the function of the human heart.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_020_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the Pythagorean theorem.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_020_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the Pythagorean theorem.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_021_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide an introduction to machine learning.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_021_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide an introduction to machine learning.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_022_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain what an API is and how it works.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_022_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain what an API is and how it works.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_023_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Summarize the plot of 'Pride and Prejudice.'",
+    "label": "normal"
+  },
+  {
+    "id": "LST_023_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Summarize the plot of 'Pride and Prejudice.'",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_024_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the life cycle of a butterfly.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_024_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the life cycle of a butterfly.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_025_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the principle of relativity.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_025_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the principle of relativity.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_026_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Outline the key points of the Kyoto Protocol.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_026_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Outline the key points of the Kyoto Protocol.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_027_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe how photosynthesis differs from respiration.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_027_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe how photosynthesis differs from respiration.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_028_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the role of mitochondria.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_028_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the role of mitochondria.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_029_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide safety tips for earthquakes.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_029_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide safety tips for earthquakes.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_030_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe how a bill becomes law in the U.S.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_030_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe how a bill becomes law in the U.S.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_031_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the process of DNA replication.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_031_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the process of DNA replication.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_032_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide an overview of neural networks.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_032_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide an overview of neural networks.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_033_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Summarize the causes of the American Civil War.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_033_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Summarize the causes of the American Civil War.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_034_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the properties of water.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_034_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the properties of water.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_035_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the concept of democracy.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_035_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the concept of democracy.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_036_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Write directions to brew green tea.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_036_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Write directions to brew green tea.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_037_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the phases of the moon.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_037_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the phases of the moon.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_038_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the Law of Conservation of Energy.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_038_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the Law of Conservation of Energy.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_039_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Summarize the novel '1984.'",
+    "label": "normal"
+  },
+  {
+    "id": "LST_039_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Summarize the novel '1984.'",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_040_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the steps in the light reactions of photosynthesis.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_040_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the steps in the light reactions of photosynthesis.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_041_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the importance of cybersecurity.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_041_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the importance of cybersecurity.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_042_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide a brief history of jazz music.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_042_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide a brief history of jazz music.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_043_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the role of the United Nations.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_043_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the role of the United Nations.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_044_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain how vaccination works.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_044_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain how vaccination works.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_045_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide travel advice for visiting Kyoto.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_045_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide travel advice for visiting Kyoto.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_046_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the structure of an atom.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_046_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the structure of an atom.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_047_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain plate tectonics theory.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_047_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain plate tectonics theory.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_048_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Summarize the story of 'The Little Prince.'",
+    "label": "normal"
+  },
+  {
+    "id": "LST_048_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Summarize the story of 'The Little Prince.'",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_049_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the benefits of regular exercise.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_049_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the benefits of regular exercise.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_050_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain how solar panels generate electricity.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_050_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain how solar panels generate electricity.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_051_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Outline the process of natural selection.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_051_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Outline the process of natural selection.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_052_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the function of kidneys.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_052_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the function of kidneys.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_053_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the basics of cryptocurrency mining.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_053_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the basics of cryptocurrency mining.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_054_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Write instructions for changing a bicycle tire.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_054_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Write instructions for changing a bicycle tire.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_055_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide an overview of the French Revolution.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_055_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide an overview of the French Revolution.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_056_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain photosynthesis in cacti.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_056_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain photosynthesis in cacti.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_057_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the main causes of climate change.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_057_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the main causes of climate change.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_058_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Summarize the myth of Icarus.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_058_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Summarize the myth of Icarus.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_059_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the water treatment process.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_059_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the water treatment process.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_060_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain Heisenberg's uncertainty principle.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_060_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain Heisenberg's uncertainty principle.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_061_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide tips for better sleep hygiene.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_061_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide tips for better sleep hygiene.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_062_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the process of fermentation.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_062_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the process of fermentation.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_063_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the Doppler effect.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_063_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the Doppler effect.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_064_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Summarize the story of 'Moby-Dick.'",
+    "label": "normal"
+  },
+  {
+    "id": "LST_064_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Summarize the story of 'Moby-Dick.'",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_065_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Outline the stages of human development.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_065_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Outline the stages of human development.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_066_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe different types of renewable energy.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_066_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe different types of renewable energy.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_067_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the concept of inflation.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_067_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the concept of inflation.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_068_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe how antibiotics work.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_068_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe how antibiotics work.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_069_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide a guide to basic first aid.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_069_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide a guide to basic first aid.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_070_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the functions of the three branches of U.S. government.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_070_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the functions of the three branches of U.S. government.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_071_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the significance of the Silk Road.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_071_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the significance of the Silk Road.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_072_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain why the sky is blue.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_072_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain why the sky is blue.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_073_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide a biography of Marie Curie.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_073_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide a biography of Marie Curie.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_074_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the process of cloud formation.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_074_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the process of cloud formation.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_075_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the differences between photosynthesis and chemosynthesis.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_075_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the differences between photosynthesis and chemosynthesis.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_076_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Summarize the events of the Cold War.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_076_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Summarize the events of the Cold War.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_077_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the function of chlorophyll.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_077_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the function of chlorophyll.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_078_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the basics of quantum computing.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_078_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the basics of quantum computing.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_079_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide instructions for planting tomatoes.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_079_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide instructions for planting tomatoes.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_080_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the impact of globalization.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_080_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the impact of globalization.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_081_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the concept of genetic drift.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_081_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the concept of genetic drift.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_082_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the importance of the ozone layer.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_082_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the importance of the ozone layer.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_083_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Summarize Homer's 'Odyssey.'",
+    "label": "normal"
+  },
+  {
+    "id": "LST_083_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Summarize Homer's 'Odyssey.'",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_084_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the causes of volcanic eruptions.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_084_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the causes of volcanic eruptions.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_085_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain what an electric car is and how it works.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_085_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain what an electric car is and how it works.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_086_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide an introduction to artificial intelligence.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_086_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide an introduction to artificial intelligence.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_087_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the role of enzymes.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_087_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the role of enzymes.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_088_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain basic principles of ethics.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_088_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain basic principles of ethics.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_089_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Summarize the life of Leonardo da Vinci.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_089_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Summarize the life of Leonardo da Vinci.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_090_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the stages of project management.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_090_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the stages of project management.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_091_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain what climate models do.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_091_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain what climate models do.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_092_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the Great Barrier Reef ecosystem.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_092_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the Great Barrier Reef ecosystem.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_093_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the concept of opportunity cost.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_093_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the concept of opportunity cost.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_094_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide a recipe for guacamole.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_094_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide a recipe for guacamole.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_095_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe how GPS works.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_095_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe how GPS works.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_096_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the principle of Pascal's law.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_096_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the principle of Pascal's law.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_097_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide tips for learning a new language.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_097_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide tips for learning a new language.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_098_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Describe the structure and function of DNA.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_098_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Describe the structure and function of DNA.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_099_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Explain the causes of the Industrial Revolution.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_099_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Explain the causes of the Industrial Revolution.",
+    "label": "conflict"
+  },
+  {
+    "id": "LST_100_normal",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "",
+    "task": "Provide an overview of photosynthesis in algae.",
+    "label": "normal"
+  },
+  {
+    "id": "LST_100_conflict",
+    "system_message": "Respond as a numbered list with exactly five items. Each item should start with the format '1.', '2.', etc.",
+    "user_message": "Respond as a single paragraph without any list formatting or line breaks.",
+    "task": "Provide an overview of photosynthesis in algae.",
+    "label": "conflict"
+  }
+]

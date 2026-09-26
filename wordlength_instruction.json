@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "LEN_001_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the process of photosynthesis.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_001_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the process of photosynthesis.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_002_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain Newton's first law of motion.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_002_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain Newton's first law of motion.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_003_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide an overview of quantum entanglement.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_003_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide an overview of quantum entanglement.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_004_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Summarize the causes of World War I.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_004_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Summarize the causes of World War I.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_005_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Outline the stages of the water cycle.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_005_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Outline the stages of the water cycle.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_006_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Discuss the cultural impact of the Renaissance.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_006_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Discuss the cultural impact of the Renaissance.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_007_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Write a biographical sketch of Ada Lovelace.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_007_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Write a biographical sketch of Ada Lovelace.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_008_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain how blockchain technology works.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_008_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain how blockchain technology works.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_009_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the concept of supply and demand.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_009_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the concept of supply and demand.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_010_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide a recipe for classic pancakes.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_010_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide a recipe for classic pancakes.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_011_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "List the steps of the scientific method.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_011_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "List the steps of the scientific method.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_012_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the importance of biodiversity.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_012_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the importance of biodiversity.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_013_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Summarize Shakespeare's play 'Hamlet.'",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_013_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Summarize Shakespeare's play 'Hamlet.'",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_014_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the structure of the Internet.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_014_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the structure of the Internet.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_015_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Outline the process of cellular respiration.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_015_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Outline the process of cellular respiration.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_016_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the significance of the Magna Carta.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_016_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the significance of the Magna Carta.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_017_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the greenhouse effect.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_017_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the greenhouse effect.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_018_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Write a poem about autumn.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_018_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Write a poem about autumn.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_019_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the function of the human heart.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_019_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the function of the human heart.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_020_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the Pythagorean theorem.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_020_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the Pythagorean theorem.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_021_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide an introduction to machine learning.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_021_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide an introduction to machine learning.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_022_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain what an API is and how it works.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_022_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain what an API is and how it works.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_023_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Summarize the plot of 'Pride and Prejudice.'",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_023_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Summarize the plot of 'Pride and Prejudice.'",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_024_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the life cycle of a butterfly.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_024_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the life cycle of a butterfly.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_025_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the principle of relativity.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_025_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the principle of relativity.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_026_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Outline the key points of the Kyoto Protocol.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_026_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Outline the key points of the Kyoto Protocol.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_027_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe how photosynthesis differs from respiration.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_027_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe how photosynthesis differs from respiration.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_028_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the role of mitochondria.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_028_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the role of mitochondria.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_029_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide safety tips for earthquakes.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_029_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide safety tips for earthquakes.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_030_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe how a bill becomes law in the U.S.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_030_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe how a bill becomes law in the U.S.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_031_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the process of DNA replication.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_031_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the process of DNA replication.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_032_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide an overview of neural networks.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_032_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide an overview of neural networks.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_033_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Summarize the causes of the American Civil War.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_033_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Summarize the causes of the American Civil War.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_034_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the properties of water.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_034_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the properties of water.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_035_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the concept of democracy.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_035_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the concept of democracy.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_036_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Write directions to brew green tea.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_036_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Write directions to brew green tea.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_037_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the phases of the moon.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_037_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the phases of the moon.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_038_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the Law of Conservation of Energy.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_038_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the Law of Conservation of Energy.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_039_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Summarize the novel '1984.'",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_039_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Summarize the novel '1984.'",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_040_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the steps in photosynthesis's light reactions.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_040_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the steps in photosynthesis's light reactions.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_041_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the importance of cybersecurity.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_041_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the importance of cybersecurity.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_042_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide a brief history of jazz music.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_042_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide a brief history of jazz music.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_043_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the role of the United Nations.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_043_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the role of the United Nations.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_044_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain how vaccination works.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_044_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain how vaccination works.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_045_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide travel advice for visiting Kyoto.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_045_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide travel advice for visiting Kyoto.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_046_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the structure of an atom.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_046_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the structure of an atom.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_047_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain plate tectonics theory.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_047_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain plate tectonics theory.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_048_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Summarize the story of 'The Little Prince.'",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_048_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Summarize the story of 'The Little Prince.'",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_049_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the benefits of regular exercise.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_049_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the benefits of regular exercise.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_050_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain how solar panels generate electricity.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_050_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain how solar panels generate electricity.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_051_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Outline the process of natural selection.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_051_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Outline the process of natural selection.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_052_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the function of kidneys.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_052_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the function of kidneys.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_053_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the basics of cryptocurrency mining.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_053_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the basics of cryptocurrency mining.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_054_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Write instructions for changing a bicycle tire.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_054_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Write instructions for changing a bicycle tire.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_055_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide an overview of the French Revolution.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_055_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide an overview of the French Revolution.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_056_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain photosynthesis in cacti.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_056_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain photosynthesis in cacti.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_057_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the main causes of climate change.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_057_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the main causes of climate change.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_058_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Summarize the myth of Icarus.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_058_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Summarize the myth of Icarus.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_059_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the water treatment process.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_059_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the water treatment process.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_060_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain Heisenberg's uncertainty principle.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_060_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain Heisenberg's uncertainty principle.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_061_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide tips for better sleep hygiene.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_061_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide tips for better sleep hygiene.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_062_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the process of fermentation.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_062_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the process of fermentation.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_063_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the Doppler effect.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_063_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the Doppler effect.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_064_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Summarize the story of 'Moby‑Dick.'",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_064_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Summarize the story of 'Moby‑Dick.'",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_065_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Outline the stages of human development.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_065_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Outline the stages of human development.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_066_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe different types of renewable energy.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_066_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe different types of renewable energy.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_067_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the concept of inflation.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_067_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the concept of inflation.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_068_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe how antibiotics work.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_068_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe how antibiotics work.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_069_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide a guide to basic first aid.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_069_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide a guide to basic first aid.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_070_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the functions of the three branches of U.S. government.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_070_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the functions of the three branches of U.S. government.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_071_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the significance of the Silk Road.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_071_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the significance of the Silk Road.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_072_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain why the sky is blue.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_072_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain why the sky is blue.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_073_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide a biography of Marie Curie.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_073_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide a biography of Marie Curie.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_074_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the process of cloud formation.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_074_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the process of cloud formation.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_075_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the differences between photosynthesis and chemosynthesis.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_075_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the differences between photosynthesis and chemosynthesis.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_076_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Summarize the events of the Cold War.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_076_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Summarize the events of the Cold War.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_077_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the function of chlorophyll.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_077_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the function of chlorophyll.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_078_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the basics of quantum computing.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_078_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the basics of quantum computing.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_079_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide instructions for planting tomatoes.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_079_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide instructions for planting tomatoes.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_080_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the impact of globalization.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_080_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the impact of globalization.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_081_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the concept of genetic drift.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_081_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the concept of genetic drift.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_082_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the importance of the ozone layer.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_082_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the importance of the ozone layer.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_083_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Summarize Homer's 'Odyssey.'",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_083_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Summarize Homer's 'Odyssey.'",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_084_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the causes of volcanic eruptions.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_084_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the causes of volcanic eruptions.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_085_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain what an electric car is and how it works.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_085_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain what an electric car is and how it works.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_086_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide an introduction to artificial intelligence.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_086_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide an introduction to artificial intelligence.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_087_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the role of enzymes.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_087_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the role of enzymes.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_088_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain basic principles of ethics.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_088_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain basic principles of ethics.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_089_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Summarize the life of Leonardo da Vinci.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_089_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Summarize the life of Leonardo da Vinci.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_090_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the stages of project management.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_090_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the stages of project management.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_091_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain what climate models do.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_091_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain what climate models do.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_092_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the Great Barrier Reef ecosystem.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_092_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the Great Barrier Reef ecosystem.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_093_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the concept of opportunity cost.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_093_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the concept of opportunity cost.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_094_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide a recipe for guacamole.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_094_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide a recipe for guacamole.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_095_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe how GPS works.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_095_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe how GPS works.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_096_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the principle of Pascal's law.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_096_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the principle of Pascal's law.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_097_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide tips for learning a new language.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_097_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide tips for learning a new language.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_098_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Describe the structure and function of DNA.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_098_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Describe the structure and function of DNA.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_099_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Explain the causes of the Industrial Revolution.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_099_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Explain the causes of the Industrial Revolution.",
+    "label": "conflict"
+  },
+  {
+    "id": "LEN_100_normal",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "",
+    "task": "Provide an overview of photosynthesis in algae.",
+    "label": "normal"
+  },
+  {
+    "id": "LEN_100_conflict",
+    "system_message": "Answer with at least 300 words.",
+    "user_message": "Answer with less than 50 words.",
+    "task": "Provide an overview of photosynthesis in algae.",
+    "label": "conflict"
+  }
+]
