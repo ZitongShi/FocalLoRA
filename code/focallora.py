@@ -16,7 +16,7 @@ from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 SEED = 42
 random.seed(SEED); np.random.seed(SEED); torch.manual_seed(SEED)
 
-##
+
 def render(tok, sample, order="task-first"):
     usr = (f"{sample['task']} {sample['user_message']}".strip()
            if order == "task-first"
@@ -40,17 +40,9 @@ def sys_mask_from_offsets(tok, text, sys_text):
 
 class ConflictDS(Dataset):
 
-    def __init__(self, files, tok, order="task-first", limit=0,
-                 targets=None, max_len=1024, max_target_tokens=448):
+    def __init__(self, files, tok, order="task-first", limit=0, max_len=1024):
         self.items = []
-        tmap = {}
-        if targets:
-            for r in json.load(open(targets)):
-                if r.get("verified"):
-                    tmap[(r["file"], r["id"])] = r["target"]
-        self.n_with_target = 0
         for f in files:
-            base = os.path.basename(f)
             conf = [s for s in json.load(open(f)) if s["label"] == "conflict"]
             for s in (conf[:limit] if limit else conf):
                 text, sys_text = render(tok, s, order)
@@ -59,18 +51,7 @@ class ConflictDS(Dataset):
                     continue
                 ids, mask = ids[:max_len], mask[:max_len]
                 focus_idx = len(ids) - 1
-                labels = [-100] * len(ids)
-                tgt = tmap.get((base, s["id"]))
-                if targets is not None and tgt is None:
-                    continue
-                if tgt is not None:
-                    tid = tok(tgt + (tok.eos_token or ""),
-                              add_special_tokens=False)["input_ids"][:max_target_tokens]
-                    ids = ids + tid
-                    mask = mask + [False] * len(tid)
-                    labels = labels + tid
-                    self.n_with_target += 1
-                self.items.append((ids, mask, labels, focus_idx))
+                self.items.append((ids, mask, focus_idx))
         if not self.items:
             raise ValueError("no usable training samples")
 
@@ -82,19 +63,17 @@ class ConflictDS(Dataset):
 
 
 def collate(batch, tok):
-    L = max(len(ids) for ids, _, _, _ in batch)
+    L = max(len(ids) for ids, _, _ in batch)
     pad = tok.pad_token_id
-    ii, am, sm, lb, fi = [], [], [], [], []
-    for ids, m, lab, f in batch:
+    ii, am, sm, fi = [], [], [], []
+    for ids, m, f in batch:
         k = L - len(ids)
         ii.append(list(ids) + [pad] * k)
         am.append([1] * len(ids) + [0] * k)
         sm.append(list(m) + [False] * k)
-        lb.append(list(lab) + [-100] * k)
         fi.append(f)
     return {"input_ids": torch.tensor(ii),
             "attention_mask": torch.tensor(am),
-            "labels": torch.tensor(lb),
             "sys_mask": torch.tensor(sm),
             "focus_idx": torch.tensor(fi)}
 
@@ -218,12 +197,10 @@ def focus_loss(attns, sys_mask, focus_idx, heads):
 
 
 def main():
-    ap = argparse.ArgumentParser("FocalLoRA (fixed, + LM loss)")
+    ap = argparse.ArgumentParser("FocalLoRA")
     ap.add_argument("--model_path", required=True)
     ap.add_argument("--data_dir", required=True)
     ap.add_argument("--output_dir", required=True)
-    ap.add_argument("--targets_json", default="")
-    ap.add_argument("--lm_loss", type=int, default=1)
     ap.add_argument("--topk", type=int, default=10)
     ap.add_argument("--lora_r", type=int, default=8)
     ap.add_argument("--lora_alpha", type=int, default=16)
@@ -285,14 +262,10 @@ def main():
     tot = sum(p.numel() for p in model.parameters())
     print(f"[fl] trainable {tr:,} / {tot:,} = {100 * tr / tot:.4f}%")
 
-    ds = ConflictDS(files, tok, args.order, args.train_limit,
-                    args.targets_json or None)
+    ds = ConflictDS(files, tok, args.order, args.train_limit)
     dl = DataLoader(ds, batch_size=args.batch_size, shuffle=True,
                     collate_fn=lambda b: collate(b, tok))
-    print(f"[fl] {len(ds)} prompts ({ds.n_with_target} with gold target), "
-          f"{len(dl)} micro-steps/epoch")
-    if args.lm_loss and ds.n_with_target == 0:
-        raise SystemExit("--lm_loss 1 needs --targets_json with verified targets")
+    print(f"[fl] {len(ds)} prompts, {len(dl)} micro-steps/epoch")
 
     opt = torch.optim.AdamW([p for p in model.parameters() if p.requires_grad], lr=args.lr)
     steps = max(1, args.epochs * len(dl) // args.grad_accum)
@@ -305,21 +278,17 @@ def main():
         for it, batch in enumerate(pbar):
             sys_mask = batch.pop("sys_mask").to(model.device)
             focus_idx = batch.pop("focus_idx")
-            labels = batch.pop("labels").to(model.device)
             batch = {k: v.to(model.device) for k, v in batch.items()}
-            out = model(**batch, labels=labels if args.lm_loss else None,
-                        output_attentions=True)
+            out = model(**batch, output_attentions=True)
             lf = focus_loss(out.attentions, sys_mask, focus_idx, heads)
-            lm = out.loss if args.lm_loss else torch.zeros_like(lf)
-            loss = lm + args.lambda_focus * lf
+            loss = args.lambda_focus * lf
             (loss / args.grad_accum).backward()
             if (it + 1) % args.grad_accum == 0 or it + 1 == len(dl):
                 torch.nn.utils.clip_grad_norm_(
                     [p for p in model.parameters() if p.requires_grad], 1.0)
                 opt.step(); sch.step(); opt.zero_grad(set_to_none=True)
-            hist.append({"lm": float(lm.detach()), "focus": float(lf.detach())})
-            pbar.set_postfix(lm=f"{float(lm.detach()):.3f}",
-                             sys_ratio=f"{-float(lf.detach()):.3f}")
+            hist.append({"focus": float(lf.detach())})
+            pbar.set_postfix(sys_ratio=f"{-float(lf.detach()):.3f}")
     model.save_pretrained(args.output_dir)
     tok.save_pretrained(args.output_dir)
     json.dump({"args": vars(args), "n_steps": len(hist),
